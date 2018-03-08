@@ -6,3 +6,4 @@
  * w pliku naglowkowym.
  */
 
+
