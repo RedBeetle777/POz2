@@ -2,6 +2,7 @@
 #include <cstring>
 #include <cassert>
 #include "BazaTestu.hh"
+#include "WyrazenieZesp.hh"
 
 using namespace std;
 
